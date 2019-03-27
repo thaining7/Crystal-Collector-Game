@@ -1,0 +1,54 @@
+body {
+    background-image: url(../images/dust_scratches.png);
+}
+
+.container {
+    border: 1px;
+    border-style: solid;
+}
+
+#game-title {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 30px;
+    line-height: 250%;
+}
+
+#game-instructions {
+    background-color: bisque;
+    color: lightseagreen;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 10px;
+}
+
+#startvalcard {
+    background-color: green;
+    height: 100px;
+    width: 150px;
+    float: left; 
+}
+
+#userinfocard {
+    background-color: cyan;
+    height: 100px;
+    width: 150px;
+}
+
+.crystal-display {
+    height: 100px;
+    width: 100px;
+} 
+
+#crystal1 {
+    float: left;
+    margin-left: 0;
+}
+
+#score-card {
+    background-color: green;
+    margin-left: 0;
+    height: 100px;
+    width: 150px;
+    float: left;
+}
