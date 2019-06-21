@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
 
-Link to github code: https://github.com/thaining7/Crystal-Collector-Game/
+Link to github page: https://thaining7.github.io/Crystal-Collector-Game/
