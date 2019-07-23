@@ -7,3 +7,5 @@ https://thaining7.github.io/Crystal-Collector-Game/
 ### If you match the total score, you win!
 
 ### If you don't match the total score, you lose!
+
+#### features JavaScript, jQuery, basic HTML and CSS
