@@ -34,4 +34,4 @@ function generateRandomBtwn(minNum, maxNum) {
 
 # How to use
 
-#### At the beginning of each game, a start value is given. Click on each crystal and try to match your total score to the start value.
+#### At the beginning of each game, a start value is given. Click on each crystal to try to match your total score to the start value.
