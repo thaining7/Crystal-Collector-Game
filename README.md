@@ -1,11 +1,37 @@
-# Welcome to the Crystal Clicky Game
+# Welcome to the Crystal Collector Clicky Game
 
 https://thaining7.github.io/Crystal-Collector-Game/
 
-### Click on the crystals to try to add up to the total score
+# Motivation
 
-### If you match the total score, you win!
+#### This application was designed to be a fun demonstration of JavaScript fundamentals
 
-### If you don't match the total score, you lose!
+# Tech Used:
 
-#### features JavaScript, jQuery, basic HTML and CSS
+* HTML
+* CSS
+* JavaScript
+* jQuery
+
+# Features
+
+* jQuery click events
+* JavaScript random number generator function
+
+# Code Example
+
+#### Random number generator function that allows a random number to be generated between two specified integers:
+
+```
+function generateRandomBtwn(minNum, maxNum) {
+    var randomNumber = 0;
+ 
+    randomNumber = Math.floor(Math.random() * (maxNum - minNum + 1) ) + minNum;
+
+    return randomNumber;
+}
+```
+
+# How to use
+
+#### At the beginning of each game, a start value is given. Click on each crystal and try to match your total score to the start value.
