@@ -2,25 +2,25 @@
 
 https://thaining7.github.io/Crystal-Collector-Game/
 
-# Motivation
+## Description
 
-#### This application was designed to be a fun demonstration of JavaScript fundamentals
+This application was designed to be a fun demonstration of JavaScript fundamentals
 
-# Tech Used:
+## Tech Used:
 
 * HTML
 * CSS
 * JavaScript
 * jQuery
 
-# Features
+## Features
 
 * jQuery click events
 * JavaScript random number generator function
 
-# Code Example
+## Code Example
 
-#### Random number generator function that allows a random number to be generated between two specified integers:
+Random number generator function that allows a random number to be generated between two specified integers:
 
 ```
 function generateRandomBtwn(minNum, maxNum) {
@@ -32,10 +32,10 @@ function generateRandomBtwn(minNum, maxNum) {
 }
 ```
 
-# Screenshots
+## Screenshots
 
 ![App](/assets/images/Screenshot.png)
 
-# How to use
+## How to use
 
-#### At the beginning of each game, a start value is given. Click on each crystal to try to match your total score to the start value.
+* At the beginning of each game, a start value is given. Click on each crystal to try to match your total score to the start value.
